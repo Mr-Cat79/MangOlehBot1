@@ -1,4 +1,4 @@
-## Bot New
+## MangOlehBot1
 
 A Lightweight WhatApp Bot Without Headless Browser
 
@@ -13,16 +13,16 @@ A Lightweight WhatApp Bot Without Headless Browser
 
 # Termux
 ```bash
-> git clone https://github.com/benisadewa/botnew
-> cd botnew
+> git clone https://github.com/Mr-Cat79/MangOlehBot1
+> cd MangOlehBot1
 > bash install.sh
 
 ```
 
 # Linux ( debian & ubuntu )
 ```bash
-> git clone https://github.com/benisadewa/botnew
-> cd botnew
+> git clone https://github.com/Mr-Cat79/MangOlehBot1
+> cd MangOlehBot1
 > bash install.sh
 
 ```
